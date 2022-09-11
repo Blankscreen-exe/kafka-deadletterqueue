@@ -1,0 +1,11 @@
+{
+  "name": "json-for-kafka-players",
+  "version": "1.0.0",
+  "description": "",
+  "main": "datagen.js",
+  "scripts": {
+    "start": "node datagen"
+  },
+  "author": "",
+  "license": "ISC"
+}
